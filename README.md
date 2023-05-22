@@ -3,8 +3,8 @@ This elevation navigation system is developed by Hikers 'N' Bikers Pvt. Ltd. tea
 <ul>
     <li> Swati Agrawal (swatagrawal264, swatiagrawal@umass.edu)
     <li> Medha Goel (goelmedha1, mgoel@umass.edu )
-    <li> Aryan Singh (arysingh@umass.edu)
-    <li> Pragadeeshwar Dakshinamurthi(pdakshinamur@umass.edu)
+    <li> Aryan Singh (aryans2000, arysingh@umass.edu)
+    <li> Pragadeeshwar Dakshinamurthi(manodakshin24, pdakshinamur@umass.edu)
 </ul>
 
 This system queries from the user:
