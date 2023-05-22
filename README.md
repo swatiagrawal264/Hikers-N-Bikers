@@ -1,7 +1,7 @@
 # Hikers N Bikers Elevation Navigation System
 This elevation navigation system is developed by Hikers 'N' Bikers Pvt. Ltd. team:
 <ul>
-    <li> Swati Agrawal (swatigrawal264, swatiagrawal@umass.edu)
+    <li> Swati Agrawal (swatiagrawal264, swatiagrawal@umass.edu)
     <li> Medha Goel (goelmedha1, mgoel@umass.edu )
     <li> Aryan Singh (aryans2000, arysingh@umass.edu)
     <li> Pragadeeshwar Dakshinamurthi(manodakshin24, pdakshinamur@umass.edu)
