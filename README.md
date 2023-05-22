@@ -102,12 +102,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
  # User Interface 
-<img src="./Images/Main_UI.png" alt="User Interface" height="500px">
+<img src="./Images/Main_UI.png" alt="User Interface">
 
 # User Interface with sample path
-<img src="./Images/Map_Distance.png" alt="User Interface with Sample path" height="500px">
+<img src="./Images/Map_Distance.png" alt="User Interface with Sample path">
 
-# Validation on the input from the users
+# EleNa UI
 <img src="./Images/Input_Validation.png" alt="Input Validation" height="800px">
 
 
