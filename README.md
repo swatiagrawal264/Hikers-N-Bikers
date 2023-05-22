@@ -41,7 +41,7 @@ If there is a version conflict between the local and global node versions, you c
 ### `npm start`
 
 Runs the application in development mode.
-Open http://localhost:3000 in your browser to view the app.
+Open http://localhost:4200 in your browser to view the app.
 
 The page will automatically reload whenever you make changes.
 You can also check for any lint errors in the console.
@@ -102,10 +102,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
  # User Interface 
-<img src="./Images/Main_UI.png" alt="User Interface">
+<img src="./Images/Main_UI.png" alt="User Interface" height="500px">
 
 # User Interface with sample path
-<img src="./Images/Map_Distance.jpg" alt="User Interface with Sample path">
+<img src="./Images/Map_Distance.png" alt="User Interface with Sample path" height="500px">
 
 # Validation on the input from the users
 <img src="./Images/Input_Validation.png" alt="Input Validation" height="800px">
